@@ -12,10 +12,11 @@ This project was particularly engaging because I wanted to implement a function 
 
 ```js
 const prevVal = document.querySelector('.select')
-if(prevVal){
-preVal.classList.remove('select')
+  if(prevVal){
+    preVal.classList.remove('select')
 }
 
-e.target.classList.add('select')```
+e.target.classList.add('select')
+```
 
 This is always something I've wondered about and I see it being used everywhere so I'm quite glad to have finally learned how to code this.
