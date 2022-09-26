@@ -1,4 +1,5 @@
 # Frontend Mentor - Interactive rating component
+Test out my solution here ---> https://megfdev-interactive-rating.netlify.app/
 
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
 
